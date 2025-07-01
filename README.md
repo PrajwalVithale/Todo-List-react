@@ -1,17 +1,19 @@
 <h1 align="center">📋 React Todo List App</h1>
+
 <p align="center">
   Built using React, Bootstrap, and localStorage. Simple, fast, and fully responsive.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/prajwal-pv/todo-list-react" />
-  <img src="https://img.shields.io/github/repo-size/prajwal-pv/todo-list-react" />
-  <img src="https://img.shields.io/github/issues/prajwal-pv/todo-list-react" />
-  <br />
+  <img src="https://img.shields.io/github/last-commit/PrajwalVithale/Todo-List-react" />
+  <img src="https://img.shields.io/github/repo-size/PrajwalVithale/Todo-List-react" />
+  <img src="https://img.shields.io/github/issues/PrajwalVithale/Todo-List-react" />
+  <br/>
   <a href="https://app.netlify.com/projects/todo-list-react-pv/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/37aa137a-568d-452f-a834-c3e04fa30149/deploy-status" />
+<img src="https://api.netlify.com/api/v1/badges/37aa137a-568d-452f-a834-c3e04fa30149/deploy-status" />
   </a>
 </p>
+
 
 ---
 
@@ -64,3 +66,15 @@ npm install
 
 # Start the local development server
 npm start
+
+```
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+<p align="center">Made with ❤️ by <strong>Prajwal Vithale</strong></p>
+
