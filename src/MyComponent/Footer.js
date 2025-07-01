@@ -18,7 +18,7 @@ const Footer = () => {
         <p className="mb-1">&copy; {new Date().getFullYear()} Prajwal's Todo App</p>
         <p className="mb-0">
           <a
-            href="https://github.com/your-github"
+            href="https://github.com/PrajwalVithale"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#ffc107", textDecoration: "none" }}
